@@ -157,7 +157,7 @@
 		<key>xcode.syntax.regex.other</key>
 		<string>1 1 1 0.85</string>
 		<key>xcode.syntax.string</key>
-		<string>0.989117 0.41558 0.365684 1</string>
+		<string>0.384314 0.639216 0.384314 1</string>
 		<key>xcode.syntax.url</key>
 		<string>0.330191 0.511266 0.998589 1</string>
 	</dict>
@@ -230,4 +230,3 @@
 	</dict>
 </dict>
 </plist>
-
